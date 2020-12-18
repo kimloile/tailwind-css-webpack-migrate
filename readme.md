@@ -1,4 +1,4 @@
-Tailwind CSS Webpack Migrate Project
+# Tailwind CSS Webpack Migrate Project
 This is an example of a super simple Webpack setup for using with Tailwind CSS.
 
 ## Installation
@@ -18,7 +18,7 @@ To build a production bundle run:
 ```
 npm run build-prod
 ```
-You can play around with /index.html to see the effects of your changes.
+You can play around with `index.html` to see the effects of your changes.
 
 ## Add more CSS/JS files
 To add more files to get bundled, open file `webpack.variables.js` to enter your input file path, the output file will be located in `assets/dist/*` folder.
@@ -38,4 +38,4 @@ npm rebuild node-sass
 ```
 
 ## Contributing
-Have a lot of experience with Webpack and suggestions on how we could improve this template? I'd love a PR!
+Have a lot of experience with Tailwind CSS/Webpack and suggestions on how we could improve this template? We'd love a PR!
